@@ -132,7 +132,7 @@ ja:
   helpers:
     label:
       job:
-        title: 'タイトル:'
+        title: 'Title:'
         description: 'Description:'
         tag_list: 'Tags (separated by commas)'
     submit:

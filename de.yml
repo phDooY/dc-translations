@@ -133,14 +133,14 @@ de:
   helpers:
     label:
       job:
-        title: 'Titel:'
+        title: 'Title:'
         description: 'Description:'
         tag_list: 'Tags (separated by commas)'
     submit:
       job:
         create: "Create Job"
         update: "Update Job"
-  powered_by: 'Powered by Loom Network 2018'
+  powered_by: 'Unterstützt von Loom Network 2018'
   blockexplorer_link: 'Block Explorer'
   by: 'von'
   at: 'bei'
@@ -156,7 +156,7 @@ de:
   edit: 'Ändern'
   back: 'Zurück'
   show: 'Show'
-  English: 'Englisch'
+  English: 'English'
   Chinese: '中文'
   Japanese: '日本語'
   Korean: '한국어'

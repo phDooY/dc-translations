@@ -137,7 +137,7 @@ ru:
       job:
         title: 'Title:'
         description: 'Description:'
-        tag_list: 'Tags (separated by commas)'
+        tag_list: 'Теги (разделенны запятыми)'
     submit:
       job:
         create: "Create Job"
@@ -146,14 +146,14 @@ ru:
   blockexplorer_link: 'Block Explorer'
   by: 'by'
   at: 'at'
-  unknown_user: 'Unknown User'
+  unknown_user: 'Неизвестный пользователь'
   send_digest: 'Send Digest'
   subscribe_to_digest: 'Subscribe to Digest'
-  subscribe: 'Subscribe'
-  yes: 'Yes'
-  no: 'No'
+  subscribe: 'Подписаться'
+  yes: 'Да'
+  no: 'Нет'
   transfer_karma_to_mainnet: 'Transfer Karma to Mainnet'
-  tags: 'tags'
+  tags: 'теги'
   time_ago: "%{time} ago"
   edit: 'Edit'
   back: 'Back'

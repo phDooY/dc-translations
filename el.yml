@@ -22,10 +22,10 @@ el:
     about_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, with real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> platform.'
   sidebar:
     ask_a_question: "Κάντε μια ερώτηση"
-    hot_questions: "HOT QUESTIONS"
+    hot_questions: "ΤΡΕΧΟΝΤΑ ΕΡΩΤΗΜΑΤΑ"
     question_asked_time_ago: "Πριν από %{time}"
   maintenance:
-    title: 'DelegateCall is Upgrading!'
+    title: 'Το DelegateCall αναβαθμίζεται!'
     text: 'Scheduled upgrade to enable additional features. Site is <strong>Read-only</strong> until upgrade has completed.'
   pundit:
     question:
@@ -37,7 +37,7 @@ el:
       accept?: 'You cannot accept this answer.'
   question:
     ask_a_question: 'Κάντε μια ερώτηση'
-    date_asked: "Asked %{time} ago"
+    date_asked: "Υποβλήθηκε πριν από %{time}"
     karma: "%{karma} Κάρμα"
     answer_heading:
       one: 'ΜΙΑ ΑΠΑΝΤΗΣΗ'
@@ -48,8 +48,8 @@ el:
     votes: 'ψήφοι'
     title_placeholder: 'What’s your programming question? Be specific'
     tags_label: 'Ετικέτες'
-    tags_placeholder: 'Choose at least one tag (max 5) or insert a new one'
-    post_button: 'Post your Question'
+    tags_placeholder: 'Επιλέξτε τουλάχιστον μία ετικέτα (το πολύ 5) ή εισάγετε μία νέα'
+    post_button: 'Υποβάλετε την Ερώτησή σας'
     discard_button: 'discard'
     posting_rules_heading: 'POSTING RULES'
     posting_rules_list_html: "<li>Choose a narrow topic. It's always good to ask a specific question instead of a general one.</li><br/>\n<li>Use code or references. One liners without context is frowned upon.</li><br/>\n<li>Make the usecase obvious.<br> It's important to talk about topics that can be applied today and can be backed up by data.</li>"
@@ -57,17 +57,17 @@ el:
       title_cannot_be_empty: 'Title cannot be empty!'
       body_cannot_be_empty: 'Body cannot be empty!'
       tags_cannot_be_empty_or_more_than_5: 'Please add at least 1 tag (but no more than 5).'
-      you_need_to_be_logged_in_to_ask_a_question: 'You need to be logged in to ask a question.'
+      you_need_to_be_logged_in_to_ask_a_question: 'Πρέπει να είστε συνδεδεμένοι για να απαντήσετε σε μια ερώτηση.'
       tag_length: "Οι ετικέτες δεν μπορούν να περιέχουν περισσότερους από %{tagCharLimit} χαρακτήρες."
   answers:
-    vote: 'vote'
-    answered_time_ago: "Answered %{time} ago"
+    vote: 'ψήφος'
+    answered_time_ago: "Απαντήθηκε πριν από %{time}"
     karma: "%{karma} Κάρμα"
-    post_your_answer: 'Post your Answer'
+    post_your_answer: 'Υποβάλετε την Απάντησή σας'
     error:
       answer_body_cannot_be_empty: 'Answer body cannot be empty'
-      upload_failed: 'The upload failed, please try again'
-      you_need_to_be_logged_in: 'You need to be logged in to answer a question.'
+      upload_failed: 'Η αποστολή απέτυχε, παρακαλώ προσπαθήστε ξανά'
+      you_need_to_be_logged_in: 'Πρέπει να είστε συνδεδεμένοι για να απαντήσετε σε μια ερώτηση.'
     heading:
       edit: 'Editing Answer'
   comments:
@@ -76,8 +76,8 @@ el:
     button_save: 'Σχόλιο'
     error:
       body_cannot_be_empty: 'Comment body cannot be empty'
-      unable_to_save: "Unable to save comment. Error: %{error}"
-      you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
+      unable_to_save: "Δεν είναι δυνατό να αποθηκευτεί το σχόλιο. Σφάλμα: %{error}"
+      you_need_to_be_logged_in: 'Πρέπει να είστε συνδεδεμένοι για να προσθέσετε ένα σχόλιο.'
   profile:
     karma: 'Κάρμα'
     questions: 'Ερωτήσεις'
@@ -86,7 +86,7 @@ el:
     notifications: 'Ειδοποιήσεις'
   job_board:
     title: 'Τίτλος:'
-    please_select_a_title: 'Please select a title for your listing'
+    please_select_a_title: 'Παρακαλώ επιλέξτε έναν τίτλο για την καταχώρησή σας'
     job_created_time_ago: "Πριν από %{time}"
     job_posted_by_html: "υποβλήθηκε από %{href}"
     search_placeholder: "Search jobs"
@@ -100,9 +100,9 @@ el:
     explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."
   search:
     placeholder: 'Αναζήτηση …'
-    button_find: 'Find'
+    button_find: 'Βρείτε'
     results_found_containing: "Results found containing"
-    questions_heading: 'Questions'
+    questions_heading: 'Ερωτήσεις'
     no_results: 'Your search did not match any documents.'
   notifications:
     no_new_notifications: 'Δεν υπάρχουν νέες ειδοποιήσεις'
@@ -125,7 +125,7 @@ el:
     button: 'Transfer'
     metamask_error_html: "You need have the %{href} browser extension\ninstalled and enabled in order to transfer tokens. Please do so now, and then reload this page."
     transfer_gateway: 'Transfer Gateway'
-    common_error: 'Oops, there is something wrong, please try again later.'
+    common_error: 'Ωχ, υπάρχει κάποιο πρόβλημα, παρακαλώ προσπαθήστε ξανά αργότερα.'
     ok_button: 'Got it'
     preview_button: 'προεπισκόπηση'
     successfuly: "You successfuly transfered "
@@ -134,7 +134,7 @@ el:
     label:
       job:
         title: 'Τίτλος:'
-        description: 'Description:'
+        description: 'Περιγραφή:'
         tag_list: 'Ετικέτες (διαχωρισμένες με κόμματα)'
     submit:
       job:
@@ -144,7 +144,7 @@ el:
   blockexplorer_link: 'Block Explorer'
   by: 'by'
   at: 'at'
-  unknown_user: 'Unknown User'
+  unknown_user: 'Άγνωστος χρήστης'
   send_digest: 'Send Digest'
   subscribe_to_digest: 'Subscribe to Digest'
   subscribe: 'Subscribe'
@@ -152,12 +152,12 @@ el:
   no: 'Όχι'
   transfer_karma_to_mainnet: 'Transfer Karma to Mainnet'
   tags: 'ετικέτες'
-  time_ago: "%{time} ago"
+  time_ago: "Πριν από %{time}"
   edit: 'Επεξεργασία'
   back: 'Πίσω'
   show: 'Εμφάνιση'
   English: 'Αγγλικά'
-  Chinese: '中文'
+  Chinese: 'Κινέζικα'
   Japanese: '日本語'
   Korean: '한국어'
   German: 'Γερμανικά'

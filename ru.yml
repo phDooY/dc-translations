@@ -29,12 +29,12 @@ ru:
     text: 'Scheduled upgrade to enable additional features. Site is <strong>Read-only</strong> until upgrade has completed.'
   pundit:
     question:
-      upvote?: 'You cannot upvote this question.'
+      upvote?: 'Вы не можете голосовать за этот вопрос.'
       downvote?: 'You cannot downvote this question.'
     answer:
-      upvote?: 'You cannot upvote this answer.'
-      downvote?: 'You cannot downvote this answer.'
-      accept?: 'You cannot accept this answer.'
+      upvote?: 'Вы не можете голосовать за этот ответ.'
+      downvote?: 'Вы не можете голосовать против этого ответа.'
+      accept?: 'Вы не можете принять этот ответ.'
   question:
     ask_a_question: 'Задать вопрос'
     date_asked: "Asked %{time} ago"

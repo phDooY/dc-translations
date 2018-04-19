@@ -6,7 +6,7 @@ ru:
     slogan: 'First Fully Blockchain-based Q&A Site'
     short_desc_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> blockchain platform.'
     login_or_signup: 'Login or Signup Now'
-    about: 'About DelegateCall'
+    about: 'О DelegateCall'
   header:
     user: 'Пользователь'
     beta: 'Бета'
@@ -65,13 +65,13 @@ ru:
     vote: 'голосовать'
     answered_time_ago: "Answered %{time} ago"
     karma: "%{karma} Кармы"
-    post_your_answer: 'Post your Answer'
+    post_your_answer: 'Опубликовать свой ответ'
     error:
       answer_body_cannot_be_empty: 'Answer body cannot be empty'
       upload_failed: 'The upload failed, please try again'
       you_need_to_be_logged_in: 'You need to be logged in to answer a question.'
     heading:
-      edit: 'Editing Answer'
+      edit: 'Редактирование ответа'
   comments:
     commented_time_ago: "%{time} ago"
     add_comment: 'add a comment'
@@ -82,21 +82,21 @@ ru:
       you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
   profile:
     karma: 'Karma'
-    questions: 'Questions'
-    answers: 'Answers'
-    comments: 'Comments'
-    notifications: 'Notifications'
+    questions: 'Вопросы'
+    answers: 'Ответы'
+    comments: 'Комментарии'
+    notifications: 'Уведомления'
   job_board:
     title: 'Title:'
     please_select_a_title: 'Please select a title for your listing'
     job_created_time_ago: "%{time} ago"
     job_posted_by_html: "posted by %{href}"
     search_placeholder: "Search jobs"
-    search: "Search"
+    search: "Поиск"
     no_results: 'Your search yielded no results :('
     post_a_job: 'Разместить вакансию'
     heading:
-      edit: 'Editing Job'
+      edit: 'Изменение задания'
       new_job: 'New Job'
   tags_page:
     explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."

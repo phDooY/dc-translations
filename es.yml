@@ -37,28 +37,28 @@ es:
       accept?: 'No puede aceptar esta respuesta.'
   question:
     ask_a_question: 'Haz una pregunta'
-    date_asked: "Asked %{time} ago"
+    date_asked: "Preguntado hace %{time}"
     karma: "%{karma} Karma"
     answer_heading:
-      one: 'ONE ANSWER'
-      other: '%{count} ANSWERS'
-    be_the_first_to_answer: 'BE THE FIRST TO ANSWER'
-    your_answer: 'YOUR ANSWER'
-    related_questions: 'RELATED QUESTIONS'
-    votes: 'votes'
-    title_placeholder: 'What’s your programming question? Be specific'
-    tags_label: 'Tags'
-    tags_placeholder: 'Choose at least one tag (max 5) or insert a new one'
-    post_button: 'Post your Question'
-    discard_button: 'discard'
-    posting_rules_heading: 'POSTING RULES'
+      one: 'UNA RESPUESTA'
+      other: '%{count} RESPUESTAS'
+    be_the_first_to_answer: 'SE EL PRIMERO EN RESPONDER'
+    your_answer: 'SU RESPUESTA'
+    related_questions: 'PREGUNTAS RELACIONADAS'
+    votes: 'votos'
+    title_placeholder: '¿Cuál es su pregunta sobre programación? Se específico'
+    tags_label: 'Etiquetas'
+    tags_placeholder: 'Elija al menos una etiqueta (máximo 5) o introducir una nueva'
+    post_button: 'Publique su Pregunta'
+    discard_button: 'descartar'
+    posting_rules_heading: 'REGLAS DE PUBLICACIÓN'
     posting_rules_list_html: "<li>Choose a narrow topic. It's always good to ask a specific question instead of a general one.</li><br/>\n<li>Use code or references. One liners without context is frowned upon.</li><br/>\n<li>Make the usecase obvious.<br> It's important to talk about topics that can be applied today and can be backed up by data.</li>"
     error:
-      title_cannot_be_empty: 'Title cannot be empty!'
-      body_cannot_be_empty: 'Body cannot be empty!'
-      tags_cannot_be_empty_or_more_than_5: 'Please add at least 1 tag (but no more than 5).'
-      you_need_to_be_logged_in_to_ask_a_question: 'You need to be logged in to ask a question.'
-      tag_length: "Tags cannot contain more than %{tagCharLimit} characters."
+      title_cannot_be_empty: '¡El título no puedenestar vacío!'
+      body_cannot_be_empty: '¡El cuerpo no puede estar vacío!'
+      tags_cannot_be_empty_or_more_than_5: 'Por favor agregue al menos 1 etiqueta (pero no más de 5).'
+      you_need_to_be_logged_in_to_ask_a_question: 'Necesita estar logueado para hacer una pregunta.'
+      tag_length: "Las etiquetas no pueden contener más de %{tagCharLimit} caracteres."
   answers:
     vote: 'vote'
     answered_time_ago: "Answered %{time} ago"

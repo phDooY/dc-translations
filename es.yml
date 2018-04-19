@@ -15,10 +15,10 @@ es:
     top: 'Arriba'
     tags: 'Etiquetas'
     jobs: 'Empleos'
-    ask_a_question: 'Ask a question'
-    login: 'Login'
+    ask_a_question: 'Haz una pregunta'
+    login: 'Inicar sesión'
   footer:
-    find_out_more: 'Find out more...'
+    find_out_more: 'Conocer más...'
     about_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, with real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> platform.'
   sidebar:
     ask_a_question: "Ask a question"

@@ -8,7 +8,7 @@ el:
     login_or_signup: 'Login or Signup Now'
     about: 'About DelegateCall'
   header:
-    user: 'User'
+    user: 'Χρήστης'
     beta: 'Beta'
     trending: 'Trending'
     newest: 'Newest'
@@ -16,7 +16,7 @@ el:
     tags: 'Tags'
     jobs: 'Jobs'
     ask_a_question: 'Ask a question'
-    login: 'Login'
+    login: 'Είσοδος'
   footer:
     find_out_more: 'Find out more...'
     about_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, with real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> platform.'

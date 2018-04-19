@@ -30,14 +30,14 @@ ru:
   pundit:
     question:
       upvote?: 'Вы не можете голосовать за этот вопрос.'
-      downvote?: 'You cannot downvote this question.'
+      downvote?: 'Вы не можете голосовать против этого вопроса.'
     answer:
       upvote?: 'Вы не можете голосовать за этот ответ.'
       downvote?: 'Вы не можете голосовать против этого ответа.'
       accept?: 'Вы не можете принять этот ответ.'
   question:
     ask_a_question: 'Задать вопрос'
-    date_asked: "Asked %{time} ago"
+    date_asked: "Спрошено %{time} назад"
     karma: "%{karma} Кармы"
     answer_heading:
       one: 'ОДИН ОТВЕТ'

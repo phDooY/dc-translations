@@ -60,10 +60,10 @@ es:
       you_need_to_be_logged_in_to_ask_a_question: 'Necesita estar logueado para hacer una pregunta.'
       tag_length: "Las etiquetas no pueden contener más de %{tagCharLimit} caracteres."
   answers:
-    vote: 'vote'
-    answered_time_ago: "Answered %{time} ago"
+    vote: 'voto'
+    answered_time_ago: "Contestado hace %{time}"
     karma: "%{karma} Karma"
-    post_your_answer: 'Post your Answer'
+    post_your_answer: 'Publica tu Respuesta'
     error:
       answer_body_cannot_be_empty: 'Answer body cannot be empty'
       upload_failed: 'The upload failed, please try again'

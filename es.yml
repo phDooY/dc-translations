@@ -26,17 +26,17 @@ es:
     question_asked_time_ago: "%{time} hace"
   maintenance:
     title: 'DelegateCall esta Actualizando!'
-    text: 'Scheduled upgrade to enable additional features. Site is <strong>Read-only</strong> until upgrade has completed.'
+    text: 'Actualización programada para habilitar funciones adicionales. El sitio es <strong>de solo lectura</strong> hasta que se complete la actualización.'
   pundit:
     question:
-      upvote?: 'You cannot upvote this question.'
-      downvote?: 'You cannot downvote this question.'
+      upvote?: 'No puedes votar esta pregunta.'
+      downvote?: 'No se puede votar esta pregunta.'
     answer:
-      upvote?: 'You cannot upvote this answer.'
-      downvote?: 'You cannot downvote this answer.'
-      accept?: 'You cannot accept this answer.'
+      upvote?: 'No se puede votar esta respuesta.'
+      downvote?: 'No se puede votar esta respuesta.'
+      accept?: 'No puede aceptar esta respuesta.'
   question:
-    ask_a_question: 'Ask a question'
+    ask_a_question: 'Haz una pregunta'
     date_asked: "Asked %{time} ago"
     karma: "%{karma} Karma"
     answer_heading:

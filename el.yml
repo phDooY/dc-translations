@@ -5,25 +5,25 @@ el:
   banner:
     slogan: 'First Fully Blockchain-based Q&A Site'
     short_desc_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> blockchain platform.'
-    login_or_signup: 'Login or Signup Now'
+    login_or_signup: 'Είσοδος ή Εγγραφή τώρα'
     about: 'About DelegateCall'
   header:
     user: 'Χρήστης'
     beta: 'Beta'
-    trending: 'Trending'
-    newest: 'Newest'
-    top: 'Top'
-    tags: 'Tags'
+    trending: 'Δημοφιλή'
+    newest: 'Νεότερα'
+    top: 'Κορυφαία'
+    tags: 'Ετικέτες'
     jobs: 'Jobs'
-    ask_a_question: 'Ask a question'
+    ask_a_question: 'Κάντε μια ερώτηση'
     login: 'Είσοδος'
   footer:
     find_out_more: 'Find out more...'
     about_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, with real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> platform.'
   sidebar:
-    ask_a_question: "Ask a question"
+    ask_a_question: "Κάντε μια ερώτηση"
     hot_questions: "HOT QUESTIONS"
-    question_asked_time_ago: "%{time} ago"
+    question_asked_time_ago: "Πριν από %{time}"
   maintenance:
     title: 'DelegateCall is Upgrading!'
     text: 'Scheduled upgrade to enable additional features. Site is <strong>Read-only</strong> until upgrade has completed.'
@@ -36,18 +36,18 @@ el:
       downvote?: 'You cannot downvote this answer.'
       accept?: 'You cannot accept this answer.'
   question:
-    ask_a_question: 'Ask a question'
+    ask_a_question: 'Κάντε μια ερώτηση'
     date_asked: "Asked %{time} ago"
-    karma: "%{karma} Karma"
+    karma: "%{karma} Κάρμα"
     answer_heading:
-      one: 'ONE ANSWER'
-      other: '%{count} ANSWERS'
+      one: 'ΜΙΑ ΑΠΑΝΤΗΣΗ'
+      other: '%{count} ΑΠΑΝΤΗΣΕΙΣ'
     be_the_first_to_answer: 'BE THE FIRST TO ANSWER'
     your_answer: 'YOUR ANSWER'
     related_questions: 'RELATED QUESTIONS'
     votes: 'votes'
     title_placeholder: 'What’s your programming question? Be specific'
-    tags_label: 'Tags'
+    tags_label: 'Ετικέτες'
     tags_placeholder: 'Choose at least one tag (max 5) or insert a new one'
     post_button: 'Post your Question'
     discard_button: 'discard'
@@ -58,7 +58,7 @@ el:
       body_cannot_be_empty: 'Body cannot be empty!'
       tags_cannot_be_empty_or_more_than_5: 'Please add at least 1 tag (but no more than 5).'
       you_need_to_be_logged_in_to_ask_a_question: 'You need to be logged in to ask a question.'
-      tag_length: "Tags cannot contain more than %{tagCharLimit} characters."
+      tag_length: "Οι ετικέτες δεν μπορούν να περιέχουν περισσότερους από %{tagCharLimit} χαρακτήρες."
   answers:
     vote: 'vote'
     answered_time_ago: "Answered %{time} ago"

@@ -52,7 +52,7 @@ es:
     post_button: 'Publique su Pregunta'
     discard_button: 'descartar'
     posting_rules_heading: 'REGLAS DE PUBLICACIÓN'
-    posting_rules_list_html: "<li>Choose a narrow topic. It's always good to ask a specific question instead of a general one.</li><br/>\n<li>Use code or references. One liners without context is frowned upon.</li><br/>\n<li>Make the usecase obvious.<br> It's important to talk about topics that can be applied today and can be backed up by data.</li>"
+    posting_rules_list_html: "<li>Elige un tema. Siempre es bueno formular una pregunta lo más específica posible.</li><br/>\n<li>Usa código o referencias. Intenta evitar un texto plano.</li><br/>\n<li>Haz un caso práctico obvio.<br> Es importante hablar sobre temas que puedan ser aplicados en el día de hoy y que puedan ser respaldados por los datos.</li>"
     error:
       title_cannot_be_empty: '¡El título no puedenestar vacío!'
       body_cannot_be_empty: '¡El cuerpo no puede estar vacío!'
@@ -65,17 +65,17 @@ es:
     karma: "%{karma} Karma"
     post_your_answer: 'Publica tu Respuesta'
     error:
-      answer_body_cannot_be_empty: 'Answer body cannot be empty'
-      upload_failed: 'The upload failed, please try again'
-      you_need_to_be_logged_in: 'You need to be logged in to answer a question.'
+      answer_body_cannot_be_empty: 'El cuerpo de la respuesta no puede estar vacío'
+      upload_failed: 'Carga fallida. por favor, intente de nuevo'
+      you_need_to_be_logged_in: 'Necesita iniciar sesión para responder una pregunta.'
     heading:
-      edit: 'Editing Answer'
+      edit: 'Editar respuesta'
   comments:
-    commented_time_ago: "%{time} ago"
-    add_comment: 'add a comment'
-    button_save: 'Comment'
+    commented_time_ago: "hace %{time}"
+    add_comment: 'añadir un comentario'
+    button_save: 'Comentar'
     error:
-      body_cannot_be_empty: 'Comment body cannot be empty'
+      body_cannot_be_empty: 'El cuerpo del comentario no puede estar vacío'
       unable_to_save: "Unable to save comment. Error: %{error}"
       you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
   profile:

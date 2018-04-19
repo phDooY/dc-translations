@@ -42,10 +42,10 @@ el:
     answer_heading:
       one: 'ΜΙΑ ΑΠΑΝΤΗΣΗ'
       other: '%{count} ΑΠΑΝΤΗΣΕΙΣ'
-    be_the_first_to_answer: 'BE THE FIRST TO ANSWER'
-    your_answer: 'YOUR ANSWER'
-    related_questions: 'RELATED QUESTIONS'
-    votes: 'votes'
+    be_the_first_to_answer: 'ΑΠΑΝΤΗΣΤΕ ΠΡΩΤΟΙ'
+    your_answer: 'Η ΑΠΑΝΤΗΣΗ ΣΑΣ'
+    related_questions: 'ΣΧΕΤΙΚΕΣ ΕΡΩΤΗΣΕΙΣ'
+    votes: 'ψήφοι'
     title_placeholder: 'What’s your programming question? Be specific'
     tags_label: 'Ετικέτες'
     tags_placeholder: 'Choose at least one tag (max 5) or insert a new one'
@@ -62,7 +62,7 @@ el:
   answers:
     vote: 'vote'
     answered_time_ago: "Answered %{time} ago"
-    karma: "%{karma} Karma"
+    karma: "%{karma} Κάρμα"
     post_your_answer: 'Post your Answer'
     error:
       answer_body_cannot_be_empty: 'Answer body cannot be empty'
@@ -71,27 +71,27 @@ el:
     heading:
       edit: 'Editing Answer'
   comments:
-    commented_time_ago: "%{time} ago"
-    add_comment: 'add a comment'
-    button_save: 'Comment'
+    commented_time_ago: "Πριν από %{time}"
+    add_comment: 'προσθέστε ένα σχόλιο'
+    button_save: 'Σχόλιο'
     error:
       body_cannot_be_empty: 'Comment body cannot be empty'
       unable_to_save: "Unable to save comment. Error: %{error}"
       you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
   profile:
-    karma: 'Karma'
-    questions: 'Questions'
-    answers: 'Answers'
-    comments: 'Comments'
-    notifications: 'Notifications'
+    karma: 'Κάρμα'
+    questions: 'Ερωτήσεις'
+    answers: 'Απαντήσεις'
+    comments: 'Σχόλια'
+    notifications: 'Ειδοποιήσεις'
   job_board:
-    title: 'Title:'
+    title: 'Τίτλος:'
     please_select_a_title: 'Please select a title for your listing'
-    job_created_time_ago: "%{time} ago"
-    job_posted_by_html: "posted by %{href}"
+    job_created_time_ago: "Πριν από %{time}"
+    job_posted_by_html: "υποβλήθηκε από %{href}"
     search_placeholder: "Search jobs"
-    search: "Search"
-    no_results: 'Your search yielded no results :('
+    search: "Αναζήτηση"
+    no_results: 'Η αναζήτησή σας δεν έδωσε αποτελέσματα :('
     post_a_job: 'Post a job'
     heading:
       edit: 'Editing Job'
@@ -99,17 +99,17 @@ el:
   tags_page:
     explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."
   search:
-    placeholder: 'Search …'
+    placeholder: 'Αναζήτηση …'
     button_find: 'Find'
     results_found_containing: "Results found containing"
     questions_heading: 'Questions'
     no_results: 'Your search did not match any documents.'
   notifications:
-    no_new_notifications: 'No new notifications'
-    time_ago: "%{time} ago"
-    heading: 'Notifications'
+    no_new_notifications: 'Δεν υπάρχουν νέες ειδοποιήσεις'
+    time_ago: "Πριν από %{time}"
+    heading: 'Ειδοποιήσεις'
   transfer:
-    account_karma: 'Account Karma'
+    account_karma: 'Κάρμα Λογαριασμού'
     dc_tokens: 'Delegatecall Tokens'
     dc_token_short: 'DC Token'
     transfer_token_to_mainnet: 'Transfer Token to Mainnet'
@@ -127,15 +127,15 @@ el:
     transfer_gateway: 'Transfer Gateway'
     common_error: 'Oops, there is something wrong, please try again later.'
     ok_button: 'Got it'
-    preview_button: 'preview'
+    preview_button: 'προεπισκόπηση'
     successfuly: "You successfuly transfered "
     to_wallet: "to wallet"
   helpers:
     label:
       job:
-        title: 'Title:'
+        title: 'Τίτλος:'
         description: 'Description:'
-        tag_list: 'Tags (separated by commas)'
+        tag_list: 'Ετικέτες (διαχωρισμένες με κόμματα)'
     submit:
       job:
         create: "Create Job"
@@ -148,17 +148,17 @@ el:
   send_digest: 'Send Digest'
   subscribe_to_digest: 'Subscribe to Digest'
   subscribe: 'Subscribe'
-  yes: 'Yes'
-  no: 'No'
+  yes: 'Ναι'
+  no: 'Όχι'
   transfer_karma_to_mainnet: 'Transfer Karma to Mainnet'
-  tags: 'tags'
+  tags: 'ετικέτες'
   time_ago: "%{time} ago"
-  edit: 'Edit'
-  back: 'Back'
-  show: 'Show'
-  English: 'English'
+  edit: 'Επεξεργασία'
+  back: 'Πίσω'
+  show: 'Εμφάνιση'
+  English: 'Αγγλικά'
   Chinese: '中文'
   Japanese: '日本語'
   Korean: '한국어'
-  German: 'Deutsch'
+  German: 'Γερμανικά'
 

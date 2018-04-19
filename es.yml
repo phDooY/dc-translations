@@ -19,13 +19,13 @@ es:
     login: 'Inicar sesión'
   footer:
     find_out_more: 'Conocer más...'
-    about_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, with real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> platform.'
+    about_html: '¡Gana tokens publicando y respondiendo preguntas! Esta es la primera DAppchain en vivo construida por Loom Network, con tokens reales respaldados por Ethereum que se ejecutan en una plataforma <strong>velocidad del rayo</strong> y <strong>escalable</strong>.'
   sidebar:
-    ask_a_question: "Ask a question"
-    hot_questions: "HOT QUESTIONS"
-    question_asked_time_ago: "%{time} ago"
+    ask_a_question: "Haz una pregunta"
+    hot_questions: "PREGUNTAS CALIENTES"
+    question_asked_time_ago: "%{time} hace"
   maintenance:
-    title: 'DelegateCall is Upgrading!'
+    title: 'DelegateCall esta Actualizando!'
     text: 'Scheduled upgrade to enable additional features. Site is <strong>Read-only</strong> until upgrade has completed.'
   pundit:
     question:

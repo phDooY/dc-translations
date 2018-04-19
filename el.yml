@@ -97,7 +97,7 @@ el:
       edit: 'Editing Job'
       new_job: 'New Job'
   tags_page:
-    explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."
+    explanation: "Μια ετικέτα είναι μια λέξη κλειδί ή ταμπέλα που κατηγοριοποιεί την ερώτησή σας με άλλες, παρόμοιες ερωτήσεις. Η χρήση κατάλληλων ετικετών βοηθάει τους άλλους να βρουν και να απαντήσουν την ερώτησή σας."
   search:
     placeholder: 'Αναζήτηση …'
     button_find: 'Βρείτε'

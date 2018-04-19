@@ -1,10 +1,10 @@
 es:
   meta:
-    title: 'DelegateCall - Blockchain based Q&A'
-    description: 'DelegateCall - Fully Blockchain based Q&A. Earn tokens for answering questions.'
+    title: 'Delegate Call - Preguntas y Respuestas basadas en la Blockchain'
+    description: 'DelegateCall - Preguntas y Respuestas basadas completamente en la Blockchain. Gana tokens por responder preguntas.'
   banner:
-    slogan: 'First Fully Blockchain-based Q&A Site'
-    short_desc_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> blockchain platform.'
+    slogan: 'El primer sitio de Preguntas y Respuestas basado completamente en la Blockchain'
+    short_desc_html: '¡Gana tokens publicando y respondiendo preguntas! Esta es la primera DAppchain en vivo construida por Loom Network, tokens reales respaldados por Ethereum que se ejecutan en la plataforma Blockchain<strong>velocidad del rayo</strong> y <strong>escalable</strong>.'
     login_or_signup: 'Login or Signup Now'
     about: 'About DelegateCall'
   header:

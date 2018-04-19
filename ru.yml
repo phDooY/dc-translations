@@ -44,14 +44,14 @@ ru:
       few: '%{count} ANSWERS'
       many: '%{count} ANSWERS'
       other: '%{count} ANSWERS'
-    be_the_first_to_answer: 'BE THE FIRST TO ANSWER'
+    be_the_first_to_answer: 'БУДЬТЕ ПЕРВЫМ'
     your_answer: 'ВАШ ОТВЕТ'
     related_questions: 'ПОХОЖИЕ ВОПРОСЫ'
     votes: 'голоса'
-    title_placeholder: 'What’s your programming question? Be specific'
+    title_placeholder: 'Каков ваш вопрос о программировании? Чем детальнее, тем лучше'
     tags_label: 'Теги'
-    tags_placeholder: 'Choose at least one tag (max 5) or insert a new one'
-    post_button: 'Post your Question'
+    tags_placeholder: 'Выберите по крайней мере один тег (максимум 5), или задайте свой'
+    post_button: 'Опубликовать вопрос'
     discard_button: 'discard'
     posting_rules_heading: 'POSTING RULES'
     posting_rules_list_html: "<li>Choose a narrow topic. It's always good to ask a specific question instead of a general one.</li><br/>\n<li>Use code or references. One liners without context is frowned upon.</li><br/>\n<li>Make the usecase obvious.<br> It's important to talk about topics that can be applied today and can be backed up by data.</li>"
@@ -124,25 +124,25 @@ ru:
     loom_token_required: 'LOOM Token Required :'
     loom_amount_found: 'LOOM found'
     loom_token_not_found: 'Loom Token Not found. This function requires purchasing 1 LOOM for approxiamtely $1.99 (0.002 ETH) :'
-    button: 'Transfer'
+    button: 'Трансфер'
     metamask_error_html: "You need have the %{href} browser extension\ninstalled and enabled in order to transfer tokens. Please do so now, and then reload this page."
     transfer_gateway: 'Transfer Gateway'
     common_error: 'Oops, there is something wrong, please try again later.'
     ok_button: 'Got it'
     preview_button: 'preview'
     successfuly: "You successfuly transfered "
-    to_wallet: "to wallet"
+    to_wallet: "в кошелёк"
   helpers:
     label:
       job:
-        title: 'Title:'
-        description: 'Description:'
+        title: 'Заголовок:'
+        description: 'Описание:'
         tag_list: 'Теги (разделенны запятыми)'
     submit:
       job:
-        create: "Create Job"
-        update: "Update Job"
-  powered_by: 'Powered by Loom Network 2018'
+        create: "Создать вакансию"
+        update: "Обновить вакансию"
+  powered_by: 'Произведено в Loom Network 2018'
   blockexplorer_link: 'Block Explorer'
   by: 'by'
   at: 'at'

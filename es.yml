@@ -5,13 +5,13 @@ es:
   banner:
     slogan: 'El primer sitio de Preguntas y Respuestas basado completamente en la Blockchain'
     short_desc_html: '¡Gana tokens publicando y respondiendo preguntas! Esta es la primera DAppchain en vivo construida por Loom Network, tokens reales respaldados por Ethereum que se ejecutan en la plataforma Blockchain<strong>velocidad del rayo</strong> y <strong>escalable</strong>.'
-    login_or_signup: 'Login or Signup Now'
-    about: 'About DelegateCall'
+    login_or_signup: 'Iniciar sesión o Registrarse ahora'
+    about: 'Sobre DelegateCall'
   header:
-    user: 'User'
+    user: 'Usuario'
     beta: 'Beta'
-    trending: 'Trending'
-    newest: 'Newest'
+    trending: 'Tendencias'
+    newest: 'Lo mas reciente'
     top: 'Top'
     tags: 'Tags'
     jobs: 'Jobs'

@@ -1,6 +1,6 @@
 ru:
   meta:
-    title: 'DelegateCall - Q&A-сервис на основе блокчейна'
+    title: 'DelegateCall - Q&A сайт на блокчейн'
     description: 'DelegateCall - Fully Blockchain based Q&A. Earn tokens for answering questions.'
   banner:
     slogan: 'First Fully Blockchain-based Q&A Site'
@@ -122,7 +122,7 @@ ru:
     amount_to_transfer: 'Amount to transfer :'
     spam_warning: 'In order to prevent Relay spam, 500 tokens minimum to initiate transfer.'
     loom_token_required: 'LOOM Token Required :'
-    loom_amount_found: 'LOOM found'
+    loom_amount_found: 'LOOM найдено'
     loom_token_not_found: 'Loom Token Not found. This function requires purchasing 1 LOOM for approxiamtely $1.99 (0.002 ETH) :'
     button: 'Трансфер'
     metamask_error_html: "You need have the %{href} browser extension\ninstalled and enabled in order to transfer tokens. Please do so now, and then reload this page."

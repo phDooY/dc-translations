@@ -53,7 +53,7 @@ ru:
     tags_placeholder: 'Выберите по крайней мере один тег (максимум 5), или задайте свой'
     post_button: 'Опубликовать вопрос'
     discard_button: 'отменить'
-    posting_rules_heading: 'POSTING RULES'
+    posting_rules_heading: 'ПРАВИЛА РАЗМЕЩЕНИЯ'
     posting_rules_list_html: "<li>Choose a narrow topic. It's always good to ask a specific question instead of a general one.</li><br/>\n<li>Use code or references. One liners without context is frowned upon.</li><br/>\n<li>Make the usecase obvious.<br> It's important to talk about topics that can be applied today and can be backed up by data.</li>"
     error:
       title_cannot_be_empty: 'Заголовок не может быть пустым!'

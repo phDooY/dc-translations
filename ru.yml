@@ -5,7 +5,7 @@ ru:
   banner:
     slogan: 'First Fully Blockchain-based Q&A Site'
     short_desc_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> blockchain platform.'
-    login_or_signup: 'Login or Signup Now'
+    login_or_signup: 'Войти, или Зарегистрироваться'
     about: 'О DelegateCall'
   header:
     user: 'Пользователь'
@@ -25,7 +25,7 @@ ru:
     hot_questions: "ГОРЯЧИЕ ВОПРОСЫ"
     question_asked_time_ago: "%{time} назад"
   maintenance:
-    title: 'DelegateCall is Upgrading!'
+    title: 'DelegateCall обновляется!'
     text: 'Scheduled upgrade to enable additional features. Site is <strong>Read-only</strong> until upgrade has completed.'
   pundit:
     question:
@@ -63,21 +63,21 @@ ru:
       tag_length: "Tags cannot contain more than %{tagCharLimit} characters."
   answers:
     vote: 'голосовать'
-    answered_time_ago: "Answered %{time} ago"
+    answered_time_ago: "Отвечено %{time} назад"
     karma: "%{karma} Кармы"
     post_your_answer: 'Опубликовать свой ответ'
     error:
-      answer_body_cannot_be_empty: 'Answer body cannot be empty'
-      upload_failed: 'The upload failed, please try again'
+      answer_body_cannot_be_empty: 'Ответ не может быть пустым'
+      upload_failed: 'Загрузка не удалась, попробуйте ещё раз'
       you_need_to_be_logged_in: 'You need to be logged in to answer a question.'
     heading:
       edit: 'Редактирование ответа'
   comments:
-    commented_time_ago: "%{time} ago"
+    commented_time_ago: "%{time} назад"
     add_comment: 'добавить комментарий'
     button_save: 'Комментарий'
     error:
-      body_cannot_be_empty: 'Comment body cannot be empty'
+      body_cannot_be_empty: 'Коммент не может быть пустым'
       unable_to_save: "Unable to save comment. Error: %{error}"
       you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
   profile:
@@ -91,13 +91,13 @@ ru:
     please_select_a_title: 'Please select a title for your listing'
     job_created_time_ago: "%{time} ago"
     job_posted_by_html: "posted by %{href}"
-    search_placeholder: "Search jobs"
+    search_placeholder: "Поиск вакансий"
     search: "Поиск"
-    no_results: 'Your search yielded no results :('
+    no_results: 'Ваш поиск не дал результатов :('
     post_a_job: 'Разместить вакансию'
     heading:
       edit: 'Изменение задания'
-      new_job: 'New Job'
+      new_job: 'Новая вакансия'
   tags_page:
     explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."
   search:
@@ -111,8 +111,8 @@ ru:
     time_ago: "%{time} ago"
     heading: 'Уведомления'
   transfer:
-    account_karma: 'Account Karma'
-    dc_tokens: 'Delegatecall Tokens'
+    account_karma: 'Карма учётной записи'
+    dc_tokens: 'Токены Delegatecall'
     dc_token_short: 'DC Token'
     transfer_token_to_mainnet: 'Transfer Token to Mainnet'
     destination_wallet: 'Destination wallet (from Metamask)'
@@ -124,20 +124,20 @@ ru:
     loom_token_required: 'LOOM Token Required :'
     loom_amount_found: 'LOOM найдено'
     loom_token_not_found: 'Loom Token Not found. This function requires purchasing 1 LOOM for approxiamtely $1.99 (0.002 ETH) :'
-    button: 'Трансфер'
+    button: 'Отправить'
     metamask_error_html: "You need have the %{href} browser extension\ninstalled and enabled in order to transfer tokens. Please do so now, and then reload this page."
     transfer_gateway: 'Transfer Gateway'
     common_error: 'Oops, there is something wrong, please try again later.'
-    ok_button: 'Got it'
-    preview_button: 'preview'
-    successfuly: "You successfuly transfered "
+    ok_button: 'Есть'
+    preview_button: 'предпросмотр'
+    successfuly: "Успешно отправлено "
     to_wallet: "в кошелёк"
   helpers:
     label:
       job:
         title: 'Заголовок:'
         description: 'Описание:'
-        tag_list: 'Теги (разделенны запятыми)'
+        tag_list: 'Теги (разделяя запятыми)'
     submit:
       job:
         create: "Создать вакансию"
@@ -152,9 +152,9 @@ ru:
   subscribe: 'Подписаться'
   yes: 'Да'
   no: 'Нет'
-  transfer_karma_to_mainnet: 'Transfer Karma to Mainnet'
+  transfer_karma_to_mainnet: 'Отправить Карму на Mainnet'
   tags: 'теги'
-  time_ago: "%{time} ago"
+  time_ago: "%{time} назад"
   edit: 'Правка'
   back: 'Назад'
   show: 'Показать'

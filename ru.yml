@@ -74,8 +74,8 @@ ru:
       edit: 'Редактирование ответа'
   comments:
     commented_time_ago: "%{time} ago"
-    add_comment: 'add a comment'
-    button_save: 'Comment'
+    add_comment: 'добавить комментарий'
+    button_save: 'Комментарий'
     error:
       body_cannot_be_empty: 'Comment body cannot be empty'
       unable_to_save: "Unable to save comment. Error: %{error}"
@@ -87,7 +87,7 @@ ru:
     comments: 'Комментарии'
     notifications: 'Уведомления'
   job_board:
-    title: 'Title:'
+    title: 'Заголовок:'
     please_select_a_title: 'Please select a title for your listing'
     job_created_time_ago: "%{time} ago"
     job_posted_by_html: "posted by %{href}"

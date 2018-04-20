@@ -95,39 +95,39 @@ es:
     post_a_job: 'Publique una oferta de empleo'
     heading:
       edit: 'Editar la oferta de empleo'
-      new_job: 'New Job'
+      new_job: 'Nuevo trabajo'
   tags_page:
-    explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."
+    explanation: "Una etiqueta es una palabra clave o etiqueta que clasifica su pregunta con otras preguntas similares. Usando las etiquetas de la derecha facilita que otros puedan encontrar y responder a su pregunta."
   search:
-    placeholder: 'Search …'
-    button_find: 'Find'
-    results_found_containing: "Results found containing"
-    questions_heading: 'Questions'
-    no_results: 'Your search did not match any documents.'
+    placeholder: 'Buscar …'
+    button_find: 'Encontrar'
+    results_found_containing: "Resultados encontrados que contienen"
+    questions_heading: 'Preguntas'
+    no_results: 'Su búsqueda no coincide con ningún documento.'
   notifications:
-    no_new_notifications: 'No new notifications'
-    time_ago: "%{time} ago"
-    heading: 'Notifications'
+    no_new_notifications: 'No hay notificaciones nuevas'
+    time_ago: "hace %{time}"
+    heading: 'Notificaciones'
   transfer:
-    account_karma: 'Account Karma'
-    dc_tokens: 'Delegatecall Tokens'
-    dc_token_short: 'DC Token'
-    transfer_token_to_mainnet: 'Transfer Token to Mainnet'
-    destination_wallet: 'Destination wallet (from Metamask)'
-    destination_address: 'Destination Address :'
-    estimated_gas: 'Estimated Gas :'
-    token_amount_to_transfer: 'Amount of tokens to transfer'
-    amount_to_transfer: 'Amount to transfer :'
-    spam_warning: 'In order to prevent Relay spam, 500 tokens minimum to initiate transfer.'
-    loom_token_required: 'LOOM Token Required :'
-    loom_amount_found: 'LOOM found'
-    loom_token_not_found: 'Loom Token Not found. This function requires purchasing 1 LOOM for approxiamtely $1.99 (0.002 ETH) :'
-    button: 'Transfer'
-    metamask_error_html: "You need have the %{href} browser extension\ninstalled and enabled in order to transfer tokens. Please do so now, and then reload this page."
-    transfer_gateway: 'Transfer Gateway'
-    common_error: 'Oops, there is something wrong, please try again later.'
-    ok_button: 'Got it'
-    preview_button: 'preview'
+    account_karma: 'Cuenta de Karma'
+    dc_tokens: 'Tokens de DelegateCall'
+    dc_token_short: 'Token de DC'
+    transfer_token_to_mainnet: 'Transferir Token a la Mainnet'
+    destination_wallet: 'Monedero de destino (de Metamask)'
+    destination_address: 'Dirección de destino:'
+    estimated_gas: 'Gas estimado:'
+    token_amount_to_transfer: 'Cantidad de tokens para transferir'
+    amount_to_transfer: 'Cantidad a transferir:'
+    spam_warning: 'Con el fin de evitar el spam, se requieren mínimo 500 tokens para iniciar la transferencia.'
+    loom_token_required: 'LOOM Token requerido:'
+    loom_amount_found: 'LOOM encontrado'
+    loom_token_not_found: 'Token de LOOM no encontrado. Esta función requiere comprar 1 LOOM de aproximadamente $1.99 (0.002 ETH) :'
+    button: 'Transferir'
+    metamask_error_html: "Usted necesita tener la extensión del navegador de %{href} instalado y activado para transferir sus Tokens. Por favor, hágalo ahora y luego vuelva a cargar esta página."
+    transfer_gateway: 'Forma de transferencia'
+    common_error: 'Vaya, hay algo mal, por favor Inténtalo más tarde.'
+    ok_button: 'Listo'
+    preview_button: 'vista previa'
     successfuly: "You successfuly transfered "
     to_wallet: "to wallet"
   helpers:

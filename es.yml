@@ -80,21 +80,21 @@ es:
       you_need_to_be_logged_in: 'Necesita haber inciado sesión para añadir un comentario.'
   profile:
     karma: 'Karma'
-    questions: 'Questions'
-    answers: 'Answers'
-    comments: 'Comments'
-    notifications: 'Notifications'
+    questions: 'Preguntas'
+    answers: 'Respuestas'
+    comments: 'Comentarios'
+    notifications: 'Notificaciones'
   job_board:
-    title: 'Title:'
-    please_select_a_title: 'Please select a title for your listing'
-    job_created_time_ago: "%{time} ago"
-    job_posted_by_html: "posted by %{href}"
-    search_placeholder: "Search jobs"
-    search: "Search"
-    no_results: 'Your search yielded no results :('
-    post_a_job: 'Post a job'
+    title: 'Título:'
+    please_select_a_title: 'Por favor, seleccione un título para tu anuncio'
+    job_created_time_ago: "hace %{time}"
+    job_posted_by_html: "publicado por %{href}"
+    search_placeholder: "Buscar empleos"
+    search: "Buscar"
+    no_results: 'Su búsqueda no obtuvo ningún resultado :('
+    post_a_job: 'Publique una oferta de empleo'
     heading:
-      edit: 'Editing Job'
+      edit: 'Editar la oferta de empleo'
       new_job: 'New Job'
   tags_page:
     explanation: "A tag is a keyword or label that categorizes your question with other, similar questions. Using the right tags makes it easier for others to find and answer your question."

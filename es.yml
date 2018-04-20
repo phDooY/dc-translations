@@ -128,35 +128,35 @@ es:
     common_error: 'Vaya, hay algo mal, por favor Inténtalo más tarde.'
     ok_button: 'Listo'
     preview_button: 'vista previa'
-    successfuly: "You successfuly transfered "
-    to_wallet: "to wallet"
+    successfuly: "Usted lo ha transferido con éxito "
+    to_wallet: "a la cartera"
   helpers:
     label:
       job:
-        title: 'Title:'
-        description: 'Description:'
-        tag_list: 'Tags (separated by commas)'
+        title: 'Título:'
+        description: 'Descripción:'
+        tag_list: 'Etiquetas (separadas por comas)'
     submit:
       job:
-        create: "Create Job"
-        update: "Update Job"
-  powered_by: 'Powered by Loom Network 2018'
+        create: "Crear trabajo"
+        update: "Actualizar trabajo"
+  powered_by: 'Impulsado por Loom Network 2018'
   blockexplorer_link: 'Block Explorer'
-  by: 'by'
-  at: 'at'
-  unknown_user: 'Unknown User'
-  send_digest: 'Send Digest'
-  subscribe_to_digest: 'Subscribe to Digest'
-  subscribe: 'Subscribe'
-  yes: 'Yes'
+  by: 'por'
+  at: 'en'
+  unknown_user: 'Usuario desconocido'
+  send_digest: 'Enviar Resumen'
+  subscribe_to_digest: 'Suscribirse al resumen'
+  subscribe: 'Suscribirse'
+  yes: 'Sí'
   no: 'No'
-  transfer_karma_to_mainnet: 'Transfer Karma to Mainnet'
-  tags: 'tags'
-  time_ago: "%{time} ago"
-  edit: 'Edit'
-  back: 'Back'
-  show: 'Show'
-  English: 'English'
+  transfer_karma_to_mainnet: 'Transferir Karma a la Mainnet'
+  tags: 'etiquetas'
+  time_ago: "hace %{time}"
+  edit: 'Editar'
+  back: 'Atrás'
+  show: 'Mostrar'
+  English: 'Inglés'
   Chinese: '中文'
   Japanese: '日本語'
   Korean: '한국어'

@@ -52,11 +52,11 @@ ru:
     tags_label: 'Теги'
     tags_placeholder: 'Выберите по крайней мере один тег (максимум 5), или задайте свой'
     post_button: 'Опубликовать вопрос'
-    discard_button: 'discard'
+    discard_button: 'отменить'
     posting_rules_heading: 'POSTING RULES'
     posting_rules_list_html: "<li>Choose a narrow topic. It's always good to ask a specific question instead of a general one.</li><br/>\n<li>Use code or references. One liners without context is frowned upon.</li><br/>\n<li>Make the usecase obvious.<br> It's important to talk about topics that can be applied today and can be backed up by data.</li>"
     error:
-      title_cannot_be_empty: 'Title cannot be empty!'
+      title_cannot_be_empty: 'Заголовок не может быть пустым!'
       body_cannot_be_empty: 'Body cannot be empty!'
       tags_cannot_be_empty_or_more_than_5: 'Please add at least 1 tag (but no more than 5).'
       you_need_to_be_logged_in_to_ask_a_question: 'You need to be logged in to ask a question.'
@@ -81,7 +81,7 @@ ru:
       unable_to_save: "Unable to save comment. Error: %{error}"
       you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
   profile:
-    karma: 'Karma'
+    karma: 'Карма'
     questions: 'Вопросы'
     answers: 'Ответы'
     comments: 'Комментарии'
@@ -155,9 +155,9 @@ ru:
   transfer_karma_to_mainnet: 'Transfer Karma to Mainnet'
   tags: 'теги'
   time_ago: "%{time} ago"
-  edit: 'Edit'
-  back: 'Back'
-  show: 'Show'
+  edit: 'Правка'
+  back: 'Назад'
+  show: 'Показать'
   English: 'English'
   Chinese: '中文'
   Japanese: '日本語'

@@ -76,8 +76,8 @@ es:
     button_save: 'Comentar'
     error:
       body_cannot_be_empty: 'El cuerpo del comentario no puede estar vacío'
-      unable_to_save: "Unable to save comment. Error: %{error}"
-      you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
+      unable_to_save: "No se pudo guardar su comentario. Error: %{error}"
+      you_need_to_be_logged_in: 'Necesita haber inciado sesión para añadir un comentario.'
   profile:
     karma: 'Karma'
     questions: 'Questions'

@@ -105,21 +105,21 @@ ru:
     button_find: 'Найти'
     results_found_containing: "Results found containing"
     questions_heading: 'Вопросы'
-    no_results: 'Your search did not match any documents.'
+    no_results: 'По Вашему запросу не найдено никаких документов.'
   notifications:
-    no_new_notifications: 'No new notifications'
-    time_ago: "%{time} ago"
+    no_new_notifications: 'Нет новых уведомлений'
+    time_ago: "%{time} назад"
     heading: 'Уведомления'
   transfer:
     account_karma: 'Карма учётной записи'
     dc_tokens: 'Токены Delegatecall'
     dc_token_short: 'DC Token'
-    transfer_token_to_mainnet: 'Transfer Token to Mainnet'
+    transfer_token_to_mainnet: 'Отправить Токен на Mainnet'
     destination_wallet: 'Destination wallet (from Metamask)'
     destination_address: 'Destination Address :'
     estimated_gas: 'Estimated Gas :'
-    token_amount_to_transfer: 'Amount of tokens to transfer'
-    amount_to_transfer: 'Amount to transfer :'
+    token_amount_to_transfer: 'Количество токенов для передачи'
+    amount_to_transfer: 'Сумма для передачи:'
     spam_warning: 'In order to prevent Relay spam, 500 tokens minimum to initiate transfer.'
     loom_token_required: 'LOOM Token Required :'
     loom_amount_found: 'LOOM найдено'

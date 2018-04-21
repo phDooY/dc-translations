@@ -1,7 +1,7 @@
 ru:
   meta:
     title: 'DelegateCall - Q&A сайт на блокчейн'
-    description: 'DelegateCall - Fully Blockchain based Q&A. Earn tokens for answering questions.'
+    description: 'DelegateCall - Blockchain на основе Q&A. Зарабатывайте токены для отвечая на вопросы.'
   banner:
     slogan: 'Первый Q&A сайт полностью на блокчейн'
     short_desc_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> blockchain platform.'
@@ -78,8 +78,8 @@ ru:
     button_save: 'Комментарий'
     error:
       body_cannot_be_empty: 'Коммент не может быть пустым'
-      unable_to_save: "Unable to save comment. Error: %{error}"
-      you_need_to_be_logged_in: 'You need to be logged in to add a comment.'
+      unable_to_save: "Не удается сохранить комментарий. Ошибка: %{error}"
+      you_need_to_be_logged_in: 'Вам нужно войти в систему чтобы оставить комментарий.'
   profile:
     karma: 'Карма'
     questions: 'Вопросы'
@@ -89,7 +89,7 @@ ru:
   job_board:
     title: 'Заголовок:'
     please_select_a_title: 'Please select a title for your listing'
-    job_created_time_ago: "%{time} ago"
+    job_created_time_ago: "%{time} назад"
     job_posted_by_html: "posted by %{href}"
     search_placeholder: "Поиск вакансий"
     search: "Поиск"

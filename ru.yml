@@ -4,7 +4,7 @@ ru:
     description: 'DelegateCall - Blockchain на основе Q&A. Зарабатывайте токены для отвечая на вопросы.'
   banner:
     slogan: 'Первый Q&A сайт полностью на блокчейн'
-    short_desc_html: 'Earn tokens by posting and answering questions! This is the first live DAppchain built by Loom Network, real Ethereum-backed tokens running on a <strong>lightning fast</strong> and <strong>scalable</strong> blockchain platform.'
+    short_desc_html: 'Получайте токены за посты и ответы на вопросы! Это первое живое децентрализованное приложение, разработанное Loom Network, использующее настоящие токены на Ethereum, работающие на <strong>быстрой</strong> и</strong> масштабируемой<strong> блокчейн-платформе.'
     login_or_signup: 'Войти, или Зарегистрироваться'
     about: 'О DelegateCall'
   header:

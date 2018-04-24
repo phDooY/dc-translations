@@ -93,7 +93,7 @@ zh-CN:
     no_results: '啊哦，没有找到符合你搜索的结果:('
     post_a_job: '发布一个工作'
     heading:
-      edit: 'Editing Job'
+      edit: '编辑工作'
       new_job: '新工作'
   tags_page:
     explanation: "标签是将你的问题与其他类似问题分类的关键字或类别。 使用准确的标签可以让其他人更容易找到并回答你的问题哟。"
@@ -138,7 +138,7 @@ zh-CN:
     submit:
       job:
         create: "创建工作"
-        update: "Update Job"
+        update: "更新工作"
   powered_by: '由Loom Network 2018支持'
   blockexplorer_link: '区块浏览器'
   by: '由'

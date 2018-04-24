@@ -1,7 +1,7 @@
 zh-CN:
   meta:
-    title: 'DelegateCall - Blockchain based Q&A'
-    description: 'DelegateCall - Fully Blockchain based Q&A. Earn tokens for answering questions.'
+    title: 'DelegateCall － 基于区块链的问答网站'
+    description: 'DelegateCall － 完全基于区块链的问答网站。通过回答问题获取代币。'
   banner:
     slogan: '第一个完全基于区块链的问答网站'
     short_desc_html: '通过在网站上提问和回答来赢取代币！这是由Loom Network构建的第一个DApp链，真正由以太坊支持的代币运行在一个<strong>快如闪电</strong>而且<strong>可扩展的</strong>区块链平台。'
@@ -16,7 +16,7 @@ zh-CN:
     tags: '标签'
     jobs: '找工作'
     ask_a_question: '提问题'
-    login: 'Login'
+    login: '登录'
   footer:
     find_out_more: '了解更多...'
     about_html: '通过在网站上提问和回答来赢取代币！这是由Loom Network构建的第一个DApp链，真正由以太坊支持的代币运行在一个<strong>快如闪电</strong>而且<strong>可扩展的</strong>平台。'
@@ -68,7 +68,7 @@ zh-CN:
       upload_failed: '哎呀上传失败了，请再试一次吧'
       you_need_to_be_logged_in: '你需要登录才可以回答问题噢。'
     heading:
-      edit: 'Editing Answer'
+      edit: '答案编辑中'
   comments:
     commented_time_ago: "%{time}前"
     add_comment: '添加评论'
@@ -82,19 +82,19 @@ zh-CN:
     questions: '问题'
     answers: '回答'
     comments: '评论'
-    notifications: 'Notifications'
+    notifications: '通知'
   job_board:
     title: '职称：'
     please_select_a_title: '请为你的工作选择一个职称吧'
     job_created_time_ago: "%{time}前"
     job_posted_by_html: "由%{href}发布"
-    search_placeholder: "Search jobs"
-    search: "Search"
+    search_placeholder: "搜索工作"
+    search: "搜索"
     no_results: '啊哦，没有找到符合你搜索的结果:('
     post_a_job: '发布一个工作'
     heading:
       edit: 'Editing Job'
-      new_job: 'New Job'
+      new_job: '新工作'
   tags_page:
     explanation: "标签是将你的问题与其他类似问题分类的关键字或类别。 使用准确的标签可以让其他人更容易找到并回答你的问题哟。"
   search:
@@ -106,7 +106,7 @@ zh-CN:
   notifications:
     no_new_notifications: '没有新的消息噢'
     time_ago: "%{time}前"
-    heading: 'Notifications'
+    heading: '通知'
   transfer:
     account_karma: '帐号Karma'
     dc_tokens: 'Delegatecall代币'
@@ -132,12 +132,12 @@ zh-CN:
   helpers:
     label:
       job:
-        title: 'Title:'
-        description: 'Description:'
-        tag_list: 'Tags (separated by commas)'
+        title: '职称：'
+        description: '描述：'
+        tag_list: '标签(用逗号分隔)'
     submit:
       job:
-        create: "Create Job"
+        create: "创建工作"
         update: "Update Job"
   powered_by: '由Loom Network 2018支持'
   blockexplorer_link: '区块浏览器'
@@ -154,10 +154,10 @@ zh-CN:
   time_ago: "%{time}前"
   edit: '编辑'
   back: '后退'
-  show: 'Show'
-  English: 'English'
+  show: '显示'
+  English: '英语'
   Chinese: '中文'
-  Japanese: '日本語'
-  Korean: '한국어'
-  German: 'Deutsch'
+  Japanese: '日语'
+  Korean: '韩语'
+  German: '德语'
 

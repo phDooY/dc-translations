@@ -134,7 +134,7 @@ ko:
       job:
         title: 'Title:'
         description: 'Description:'
-        tag_list: 'Tags (separated by commas)'
+        tag_list: '태그 (쉼표로 구분)'
     submit:
       job:
         create: "Create Job"
